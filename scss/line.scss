@@ -1,0 +1,24 @@
+.line {
+    max-width: 1280px;
+    min-height: 304px;
+    margin:  0 auto;
+    //background-color: cadetblue;
+    .white-line { 
+        max-width: 920px;
+        min-height: 1px;
+        margin: -400px 150px;
+        //position: relative;
+        align-items: center;
+        background-color:white;
+    }
+   
+}
+
+@media only screen and (max-width: 1060px) {
+    .white-line{
+  
+        padding-left: 0px;
+        padding-right: 0px;
+    
+    }
+}

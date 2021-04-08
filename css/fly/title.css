@@ -1,0 +1,9 @@
+.fly {
+  width: 800px;
+  height: 70px;
+  background-color: yellowgreen;
+}
+.fly h1 {
+  text-align: center;
+  color: #000;
+}
